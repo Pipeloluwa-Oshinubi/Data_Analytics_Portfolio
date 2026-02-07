@@ -16,12 +16,12 @@ Each project are real-world business cases from customer behavior analysis to HR
 - Developed a Power BI dashboard highlighting churn drivers by demographics and usage patterns.  
 - Applied Python-based exploratory analysis to identify customer retention opportunities.  
 
-📂 Folder: [Customer Behavior Portfolio Project](./#1%20Customer%20Behavior%20Analysis/)
+📂 Folder: [Customer Behavior Portfolio Project](./%231%20Customer%20Behavior%20Analysis/)
 
 
 ---
 
-### 2️⃣ [Sales Performance Analysis](./sales-performance-analysis/README.md)
+### 2️⃣ [Sales Performance Analysis](./%232%20Sales%20Performance%20Analysis/README.md)
 **Tools:** SQL, Power BI, Python  
 **Focus:** Regional and product-level sales trend analysis.  
 **Highlights:**  
@@ -29,11 +29,11 @@ Each project are real-world business cases from customer behavior analysis to HR
 - Created Power BI visuals for performance tracking by region, category, and channel.  
 - Provided business insights to support sales target setting and profitability tracking.  
 
-📂 Folder: [`/sales-performance-analysis`](./sales-performance-analysis/)
+📂 Folder: [`/sales-performance-analysis`](./%232%20Sales%20Performance%20Analysis/)
 
 ---
 
-### 3️⃣ [HR Attrition Analysis](./HR%20Attrition%20Portfolio%20Project/README.md)
+### 3️⃣ [HR Attrition Analysis](./%233%20HR%20Attrition%20Analysis/README.md)
 **Tools:** Power BI, Power Query, DAX  
 **Focus:** Workforce attrition analysis and retention strategy for a mid-sized company.  
 **Highlights:**  
@@ -41,8 +41,7 @@ Each project are real-world business cases from customer behavior analysis to HR
 - Identified early-career and low-salary employees as key attrition risk groups.  
 - Delivered actionable retention recommendations for HR and leadership.  
 
-📂 Folder: [HR Attrition & Retention Dashboard Folder](./HR%20Attrition%20Portfolio%20Project/)
-
+📂 Folder: [HR Attrition & Retention Dashboard Folder](./%233%20HR%20Attrition%20Analysis/)
 ---
 
 ## 🧰 Tools & Technologies
