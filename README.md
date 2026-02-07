@@ -29,7 +29,7 @@ Each project are real-world business cases from customer behavior analysis to HR
 - Created Power BI visuals for performance tracking by region, category, and channel.  
 - Provided business insights to support sales target setting and profitability tracking.  
 
-📂 Folder: [`/sales-performance-analysis`](./%232%20Sales%20Performance%20Analysis/)
+📂 Folder: [Sales Performance Analysis](./%232%20Sales%20Performance%20Analysis/)
 
 ---
 
@@ -39,9 +39,10 @@ Each project are real-world business cases from customer behavior analysis to HR
 **Highlights:**  
 - Built an interactive Power BI dashboard with demographic and compensation segmentation.  
 - Identified early-career and low-salary employees as key attrition risk groups.  
-- Delivered actionable retention recommendations for HR and leadership.  
+- Delivered actionable retention recommendations for HR and leadership.
 
-📂 Folder: [HR Attrition Analysis](./%233%20HR%20Attrition%20Analysis/)
+📂 Folder: [HR Attrition Analysis](./%233%20HR%Attrition%20Analysis/)   
+
 ---
 
 ## 🧰 Tools & Technologies
@@ -85,8 +86,8 @@ data-analytics-portfolio/
 ## 📫 Connect
 Let’s connect and discuss analytics, data strategy, or BI development.  
 
-📧 **Email:** youremail@example.com  
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+📧 **Email:** oshinubipipeloluwa@gmail.com  
+🔗 **LinkedIn:** [Oshinubi Pipeloluwa](https://www.linkedin.com/in/pipeloluwa-oshinubi-a2445a357?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
 
 ---
 ⭐ *Thank you for visiting my Data Analytics Portfolio!*
