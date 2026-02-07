@@ -33,7 +33,7 @@ Each project are real-world business cases from customer behavior analysis to HR
 
 ---
 
-### 3️⃣ [HR Attrition & Retention Dashboard](./HR%20Attrition%20Portfolio%20Project/README.md)
+### 3️⃣ [HR Attrition Analysis](./HR%20Attrition%20Portfolio%20Project/README.md)
 **Tools:** Power BI, Power Query, DAX  
 **Focus:** Workforce attrition analysis and retention strategy for a mid-sized company.  
 **Highlights:**  
