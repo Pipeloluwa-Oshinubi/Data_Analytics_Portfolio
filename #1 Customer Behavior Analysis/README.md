@@ -112,6 +112,7 @@ retail-consumer-behavior-analytics/
 #  Insights & Narrative
 
 The analysis revealed several actionable patterns in customer behavior. 
+
 Subscribers generate higher revenue and demonstrate stronger loyalty compared to non-subscribers, suggesting that promoting exclusive benefits for subscribers could increase engagement and lifetime value. 
 
 Repeat customers, especially those with more than five previous purchases, are a high-value segment, and rewarding them through loyalty programs or targeted incentives can improve retention. 
