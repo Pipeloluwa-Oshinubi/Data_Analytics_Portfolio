@@ -21,19 +21,7 @@ Each project are real-world business cases from customer behavior analysis to HR
 
 ---
 
-### 2️⃣ [HR Attrition & Retention Dashboard](./HR%20Attrition%20Portfolio%20Project/README.md)
-**Tools:** Power BI, Power Query, DAX  
-**Focus:** Workforce attrition analysis and retention strategy for a mid-sized company.  
-**Highlights:**  
-- Built an interactive Power BI dashboard with demographic and compensation segmentation.  
-- Identified early-career and low-salary employees as key attrition risk groups.  
-- Delivered actionable retention recommendations for HR and leadership.  
-
-📂 Folder: [HR Attrition & Retention Dashboard Folder](./HR%20Attrition%20Portfolio%20Project/)
-
----
-
-### 3️⃣ [Sales Performance Analysis](./sales-performance-analysis/README.md)
+### 2️⃣ [Sales Performance Analysis](./sales-performance-analysis/README.md)
 **Tools:** SQL, Power BI, Python  
 **Focus:** Regional and product-level sales trend analysis.  
 **Highlights:**  
@@ -42,6 +30,18 @@ Each project are real-world business cases from customer behavior analysis to HR
 - Provided business insights to support sales target setting and profitability tracking.  
 
 📂 Folder: [`/sales-performance-analysis`](./sales-performance-analysis/)
+
+---
+
+### 3️⃣ [HR Attrition & Retention Dashboard](./HR%20Attrition%20Portfolio%20Project/README.md)
+**Tools:** Power BI, Power Query, DAX  
+**Focus:** Workforce attrition analysis and retention strategy for a mid-sized company.  
+**Highlights:**  
+- Built an interactive Power BI dashboard with demographic and compensation segmentation.  
+- Identified early-career and low-salary employees as key attrition risk groups.  
+- Delivered actionable retention recommendations for HR and leadership.  
+
+📂 Folder: [HR Attrition & Retention Dashboard Folder](./HR%20Attrition%20Portfolio%20Project/)
 
 ---
 
@@ -89,6 +89,8 @@ Let’s connect and discuss analytics, data strategy, or BI development.
 
 ---
 ⭐ *Thank you for visiting my Data Analytics Portfolio!*
+
+
 
 
 
