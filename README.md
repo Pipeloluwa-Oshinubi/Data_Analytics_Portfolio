@@ -57,25 +57,27 @@ Each project are real-world business cases from customer behavior analysis to HR
 ## 🧩 Portfolio Structure
 ```
 data-analytics-portfolio/
- ├── README.md                    ← main portfolio overview
- ├── hr-analytics-dashboard/      ← project 1: HR analytics (Power BI)
+ ├── README.md                            ← main portfolio overview
+ ├── customer-behavior-analysis/         ← project 1: Customer Behavior Analysis (Python + SQL + Power BI)
  │    ├── README.md
- │    ├── assets/
  │    ├── data/
- │    ├── documentation/
+ │    ├── python/
+ │    ├── sql/
+ │    ├── powerbi/
+ │    └── documentation/
+ │
+ ├── sales-performance-analysis/         ← project 2: Sales Performance Analysis (Python + Excel + Power BI)
+ │    ├── README.md
+ │    ├── data/
+ │    ├── python/
  │    └── powerbi/
  │
- ├── sales-performance-analysis/  ← project 2: Sales analysis (SQL + Python)
- │    ├── README.md
- │    ├── assets/
- │    ├── sql/
- │    └── python/
- │
- └── customer-churn-report/       ← project 3: Churn analysis (Python + Power BI)
+ └── hr-attrition-analysis/              ← project 3: HR Attrition Analysis (Power BI)
       ├── README.md
-      ├── assets/
       ├── data/
-      └── python/
+      ├── powerbi/
+      └── documentation/
+
 ```
 
 ---
