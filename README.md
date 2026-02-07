@@ -87,7 +87,7 @@ data-analytics-portfolio/
 Let’s connect and discuss analytics, data strategy, or BI development.  
 
 📧 **Email:** oshinubipipeloluwa@gmail.com  
-🔗 **LinkedIn:** [Oshinubi Pipeloluwa](https://www.linkedin.com/in/pipeloluwa-oshinubi-a2445a357?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+🔗 **LinkedIn:** [Oshinubi Pipeloluwa](https://www.linkedin.com/in/pipeloluwa-oshinubi-a2445a357?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 ---
 ⭐ *Thank you for visiting my Data Analytics Portfolio!*
