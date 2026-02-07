@@ -1,4 +1,4 @@
-# 🧠 Data Analytics Portfolio
+#  Data Analytics Portfolio
 
 Welcome to my **Data Analytics Portfolio**, a collection of end-to-end analytics projects showcasing skills in **data cleaning, modeling, analysis, and business storytelling** using **Python, SQL, Power BI, and Excel**.
 
