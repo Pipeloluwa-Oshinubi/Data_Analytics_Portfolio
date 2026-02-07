@@ -8,7 +8,7 @@ Each project are real-world business cases from customer behavior analysis to HR
 
 ## 📊 Featured Projects
 
-### 1️⃣ [Customer Behavior Analytics]./%231%20Customer%20Behavior%20Analysis)
+### 1️⃣ [Customer Behavior Analytics](./%231%20Customer%20Behavior%20Analysis)
 **Tools:** Python, Excel, Power BI  
 **Focus:** Understanding and predicting customer churn behavior.  
 **Highlights:**  
