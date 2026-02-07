@@ -9,7 +9,7 @@ Each project are real-world business cases from customer behavior analysis to HR
 ## 📊 Featured Projects
 
 ### 1️⃣ [Customer Behavior Analytics](./%231%20Customer%20Behavior%20Analysis/README.md)
-**Tools:** Python, Excel, Power BI  
+**Tools:** Python, SQL, Power BI  
 **Focus:** Understanding and predicting customer churn behavior.  
 **Highlights:**  
 - Cleaned and transformed data in Excel and Python (Pandas).  
@@ -22,7 +22,7 @@ Each project are real-world business cases from customer behavior analysis to HR
 ---
 
 ### 2️⃣ [Sales Performance Analysis](./%232%20Sales%20Performance%20Analysis/README.md)
-**Tools:** SQL, Power BI, Python  
+**Tools:** Excel, Power BI, Python  
 **Focus:** Regional and product-level sales trend analysis.  
 **Highlights:**  
 - Designed SQL queries and Python scripts to aggregate revenue KPIs.  
