@@ -1,125 +1,135 @@
-#  Retail Consumer Behavior Analytics Dashboard
+#  Sales Performance Analytics Dashboard
 
 #  Project Overview
 
-This project focuses on analysing consumer shopping behavior to uncover patterns that influence purchasing decisions, customer loyalty, and sales performance. The analysis transforms raw transactional data into actionable insights that support better marketing, product, and customer engagement strategies.
+This project analyzes historical sales data to uncover patterns driving revenue, profit, and seasonal trends. The analysis transforms raw transactional data into actionable insights that support pricing, promotions, and market expansion strategies.
 
 #  Business Problem
 
-A retail company aims to better understand customer shopping behavior in order to improve sales performance, increase customer satisfaction, and strengthen long term loyalty. Management observed shifts in purchasing patterns across demographics, product categories, and sales channels including both online and in store transactions. There is a need to identify which factors such as discounts, product reviews, seasonal trends, and payment preferences influence purchasing decisions and repeat purchases.
+The company seeks to understand its sales performance across products, channels, and regions in order to improve profitability, reduce concentration risk, and support sustainable growth. Management observed variations in revenue and profit and changing demand patterns, highlighting the need to identify key revenue and profit drivers, detect anomalies, and optimize business strategies.
 
 #  Objective
 
-Provide business stakeholders with actionable insights into consumer behavior and purchasing trends to support improved customer engagement, optimized marketing strategies, and better product positioning.
+Provide business stakeholders with actionable insights into sales performance, revenue and profit drivers, seasonal trends, and pricing or margin risks to support data-driven decision making and sustainable growth.
 
 #  Scope
 
-Focus Area: Consumer Behavior and Retail Analytics
+Focus Area: Sales Performance and Revenue Analytics
 
 #  Dashboard Preview
 
 Dashboard file available in the powerbi folder.
+
 #  Key Metrics (KPIs)
 
-Total Revenue by Gender
+Monthly Sales Trend Over Time
 
-Average Purchase Amount by Shipping Type
+Top 10 Products by Revenue
 
-Average Spend & Total Revenue for Subscribers vs Non-Subscribers
+Top 10 Products by Average Profit Margin
 
-Number of Customers by Segment (New, Returning, Loyal)
+Sales by Channel
 
-Revenue Contribution by Age Group
+Total Sales by State
 
-Top Products by Average Review Rating
+Total Sales by US Region
 
-Top Products by Category
+Average Order Value AOV Distribution
 
-Discount Rate by Product
+Top and Bottom 10 Customers by Revenue
 
-High-Value Discount Purchases (customers spending above average with discounts)
-
-Subscription Rate among Repeat Buyers
+Top State Performance Revenue vs Orders
 
 
 #  Data Preparation & Modeling
 
 Data preparation and exploratory analysis were performed using Python. The analysis notebook is located in the python folder.
 
-Cleaned and transformed raw consumer data to ensure accuracy and consistency
+Cleaned and transformed raw sales data to ensure accuracy and consistency
 
-Handled missing values and corrected inconsistent entries
+Handled missing budgets and corrected data types
 
-Structured data to support efficient querying and reporting
+Structured data to support analysis and dashboard development
 
-Performed exploratory analysis to identify trends and relationships across customer segments and purchasing behavior
+Performed exploratory data analysis to identify trends correlations and customer product segments
 
 The original dataset used for analysis is stored in the data folder.
 
 
 #  Data Analysis
 
-SQL was used to organize and analyse transactional data. All analytical queries are available in the sql folder.
+All analysis was performed in Python using exploratory and statistical techniques. The notebook includes:
 
-Structured datasets to reflect business transactions and customer activity
+Univariate and bivariate analysis of revenue margin unit price and product channel region breakdowns
 
-Developed queries to analyse customer segments, loyalty patterns, and purchase drivers
+Trend and seasonality analysis highlighting recurring surges and dips
 
-Extracted insights to answer key business questions related to sales performance and consumer engagement
+Outlier detection of extreme transactions in revenue and unit price
+
+Correlation and segmentation analysis clustering customers by revenue versus profit margin
 
 
 #  Visualization & Insights
 
 An interactive Power BI dashboard was developed to present key trends and performance indicators. The dashboard file is located in the powerbi folder.
 
-Visualised sales trends across demographics, product categories, and sales channels
+Visualized revenue and profit trends across products channels and regions
 
-Enabled stakeholders to explore consumer behavior through interactive filtering
+Enabled stakeholders to explore seasonal trends and anomalies
 
-Supported data driven decision making through clear visual storytelling
+Highlighted top performing products regions and channels for decision support
+
+Supported data driven pricing promotion and expansion strategies
 
 
 #  Tools & Technology
 
-Python (Data Cleaning, Exploratory Data Analysis)
+Python Data Cleaning and Exploratory Data Analysis
 
-SQL (Data Analysis and Querying)
+Power BI Data Modeling DAX Calculations Interactive Reporting
 
-Power BI (Data Modeling, DAX Calculations, Interactive Reporting)
-
-Data Model Type: Star Schema
+Data Model Type Star Schema
 
 
 #  Project Structure
 
 ```
-retail-consumer-behavior-analytics/
+sales-performance-analytics/
  ├── README.md
  ├── data/
- │   └── customer_shopping_behavior.csv
+ │   ├── regional_sales_dataset.csv
+ │   └── sales_data.csv
  ├── python/
- │   └── Customer_Shopping_Behavior_Analysis.ipynb
- ├── sql/
- │   └── customer_behavior_sql_queries.sql
+ │   └── EDA_Regional_Sales_Analysis.ipynb
  ├── powerbi/
- │   └── customer_behavior_dashboard.pbix
+ │   └── Sales_Report.pbix
  └── documentation/
-     ├── Business Problem Document.pdf
-     ├── Customer Shopping Behavior Analysis.pdf
-     └── Customer_Shopping_Behavior_Analysis.pptx
+     ├── Business_Problem_Document.pdf
+     └── Regional_Sales_Analysis.pptx
+
  ```    
 
 #  Insights & Narrative
 
-The analysis revealed several actionable patterns in customer behavior. Subscribers generate higher revenue and demonstrate stronger loyalty compared to non-subscribers, suggesting that promoting exclusive benefits for subscribers could increase engagement and lifetime value. Repeat customers, especially those with more than five previous purchases, are a high-value segment, and rewarding them through loyalty programs or targeted incentives can improve retention. Certain customer segments, including express shipping users, consistently contribute more to total revenue, indicating that focusing marketing and promotions on these segments can maximize returns. Products with the highest review ratings perform well in purchases, so featuring these products in campaigns can drive additional sales and improve customer satisfaction. Overall, these insights support strategies to increase sales, retain customers, and improve engagement.
+Pronounced Seasonality: January revenues average $124M, dipping to $95M in April.
+
+SKU Concentration: Products 26 and 25 together drive approximately 25 percent of total sales.
+
+Channel Trade Off: Wholesale captures 54 percent of volume while Export delivers the highest average margin at approximately 38 percent.
+
+Geographic Dominance: California records about 7.6K orders and $230M revenue while the West region shows the largest performance swings.
+
+Top Customers: Aibox Company and State Ltd generate the highest revenue contribution.
 
 
 #  Recommendations
 
-Promote exclusive benefits for subscribers.
+Seasonal Promotions: Launch recovery campaigns in April and amplify January offers to smooth revenue swings.
 
-Reward repeat buyers to icrease retention.
+SKU Optimization: Focus on top products 26 and 25 and re evaluate pricing or phase out low margin SKUs.
 
-Focus on high-revenue segments abd express users.
+Channel Expansion: Incentivize Export partnerships for higher margins and introduce volume deals in Wholesale.
 
-Highlight top-rated products in campaigns.
+Regional Investment: Replicate California success in other regions and increase marketing in the Northeast and Midwest.
+
+Margin Monitoring: Flag orders below 80 percent margin and analyze cost drivers to improve underperforming segments.
