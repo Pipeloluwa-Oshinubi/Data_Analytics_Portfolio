@@ -16,7 +16,7 @@ Each project are real-world business cases from customer behavior analysis to HR
 - Developed a Power BI dashboard highlighting churn drivers by demographics and usage patterns.  
 - Applied Python-based exploratory analysis to identify customer retention opportunities.  
 
-📂 Folder: [Customer Behavior Portfolio Project](./%231%20Customer%20Behavior%20Analysis/)
+📂 Folder: [Customer Behavior Analysis](./%231%20Customer%20Behavior%20Analysis/)
 
 
 ---
