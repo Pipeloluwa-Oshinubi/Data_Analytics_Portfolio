@@ -41,7 +41,7 @@ Each project are real-world business cases from customer behavior analysis to HR
 - Identified early-career and low-salary employees as key attrition risk groups.  
 - Delivered actionable retention recommendations for HR and leadership.
 
-📂 Folder: [HR Attrition Analysis](./%233%20HR%Attrition%20Analysis/)   
+📂 Folder: [HR Attrition Analysis](./%233%20HR%20Attrition%20Analysis/)   
 
 ---
 
